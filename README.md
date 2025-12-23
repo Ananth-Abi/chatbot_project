@@ -11,6 +11,5 @@ It is mainly created for **learning and practice purposes**.
 
 ## 🛠️ Technologies Used
 - JavaScript  
-- (Add more if you use them, e.g., HTML, CSS, Node.js, React)
+- (HTML, CSS, Node.js, React)
 
-## 📂 Project Structure
